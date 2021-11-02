@@ -11,3 +11,7 @@ Make sure that qmake is in your PATH. Also put GLEW, ZLib and GLUT include and l
 
 Open Visual Studio 2010 command prompt and navigate to brdf project root directory.
 Run "qmake -r -tp vc prefix=foo", this will generate the vcxproj and sln files.
+
+
+========================================= 
+Run brdf in src folder need install qt-opensource-windows-x86-5.12.11.
